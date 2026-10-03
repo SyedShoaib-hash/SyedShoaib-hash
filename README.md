@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋 I'm Syed Shoaib
 
-<!--
-**SyedShoaib-hash/SyedShoaib-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I am a **Data Science student at UET**, currently studying in my 3rd semester.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in **Data Science, Programming, Machine Learning, and Data Analytics**. I am continuously learning new technologies and improving my programming and problem-solving skills.
+
+## 🌱 Currently Learning
+
+* Python
+* Data Structures & Algorithms
+* Machine Learning
+* Computer Networks
+* Software Engineering
+* Data Analytics
+
+## 🛠️ Skills & Technologies
+
+* Python
+* Microsoft Excel
+* Power BI
+* Git & GitHub
+* Data Analysis
+* Problem Solving
+
+## 📚 Education
+
+**University of Engineering and Technology (UET)**
+Bachelor's in Data Science
+Currently in 3rd Semester
+
+## 🚀 Goals
+
+* Become a skilled Data Scientist
+* Build real-world Data Science projects
+* Improve my programming and problem-solving skills
+* Learn and apply Machine Learning
+* Build a strong professional portfolio
+
+## 📫 Contact
+
+GitHub: [@SyedShoaib-hash](https://github.com/SyedShoaib-hash)
+
+---
+
+⭐ Thanks for visiting my profile!
