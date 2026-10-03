@@ -38,6 +38,10 @@ Currently in 3rd Semester
 * Learn and apply Machine Learning
 * Build a strong professional portfolio
 
+## 💡 Currently Exploring
+
+Learning how to use Git and GitHub for software development.
+
 ## 📫 Contact
 
 GitHub: [@SyedShoaib-hash](https://github.com/SyedShoaib-hash)
